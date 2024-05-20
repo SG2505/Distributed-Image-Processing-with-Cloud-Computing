@@ -41,7 +41,7 @@ Check out our [YouTube demo](https://youtu.be/1xnuI-0nm1c) to see the project in
 1. Clone the repository
 
     ```bash
-    git clone https://github.com/Etsh20P/Distributed-Image-Processing-Project.git
+    git clone https://github.com/SG2505/Distributed-Image-Processing-with-Cloud-Computing.git
     cd "Project source code"
     ```
 
